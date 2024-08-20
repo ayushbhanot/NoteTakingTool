@@ -1,3 +1,6 @@
+# AI-Transcription
+AI Transcription Tool for MENT.
+
 # SIDEPROJECT-NOTETOOL
 Work in Progress...
 
