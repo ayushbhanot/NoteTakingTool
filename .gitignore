@@ -25,3 +25,11 @@ yarn-error.log*
 #Ensure the following files is not tracked by git
 .env
 google-credentials.json
+node_modules/
+dist/
+*.log
+.env
+.DS_Store
+.vscode/
+coverage/
+A
